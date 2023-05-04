@@ -1,16 +1,15 @@
-### Hi there 👋
+## ¡Bienvenidos!
 
-<!--
-**seniorbeto/seniorbeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Alberto Penas Díaz ([@seniorbeto](https://github.com/seniorbeto)). Soy estudiante de Ingeniería Informática en la universidad Carlos III de Madrid.
+Me interesa mucho el aprendizaje automático, big data y trabajar en cualquier proyecto de software que requiera un proceso creativo y un objetivo desafiante, como lo pueden ser mis respositorios
+públicos graphdisplay y The Lolo Game:
++ [graphdisplay](https://github.com/seniorbeto/graphdisplay) es un repositorio en donde trabajo en una librería de python activa y estable cuyo objetivo es representar grafos de forma 
+fácil e intuitiva y así, intentar hacer la vida más fácil a los alumnos de Estructura de Datoso y Algoritmos de la universidad Carlos III de Madrid.
++ [The Lolo Game](https://github.com/seniorbeto/The-Lolo-Game) es un proyecto en donde se trata de elaborar un juego sencillo en python, similar a un tamagotchi en el que el protagonista es 
+mi gato Lolo. El objetivo de este repositorio es aprender a utilizar intefaces gráficas y hacer un sistema de login seguro y fiable.
 
-Here are some ideas to get you started:
+## Estadísticas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniorbeto&show_icons=true&locale=en&layout=compact" alt="seniorbeto" /></p>
+
+![Ragarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent)
