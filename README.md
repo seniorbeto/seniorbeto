@@ -10,6 +10,14 @@ mi gato Lolo. El objetivo de este repositorio es aprender a utilizar intefaces g
 
 ## Estadísticas 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniorbeto&show_icons=true&locale=en&layout=compact" alt="seniorbeto" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniorbeto&show_icons=true&locale=en&layout=compact" alt="seniorbeto" />
+</p>
 
-![Ragarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent" alt="seniorbeto" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=039dfc&height=65&section=footer"/>
+</p>
