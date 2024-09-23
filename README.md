@@ -8,16 +8,6 @@ fácil e intuitiva y así, intentar hacer la vida más fácil a los alumnos de E
 + [Práctica_IA](https://github.com/seniorbeto/Practica_IA) es un proyecto en donde se trata de codificar en un Proceso de Decisión de Markov la programación de un termostato cuyo objetivo 
 es optimizar al máximo posible la regulación de la temperatura en una estancia. 
 
-## Estadísticas 
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seniorbeto&show_icons=true&locale=en&layout=compact" alt="seniorbeto" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent" alt="seniorbeto" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=039dfc&height=65&section=footer"/>
 </p>
